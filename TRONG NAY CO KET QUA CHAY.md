@@ -1,16 +1,8 @@
 
 # mid
 Bài 1
-C:\Users\LOCDZ\.jdks\openjdk-24.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.5\lib\idea_rt.jar=60584:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.5\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\LOCDZ\Downloads\Compressed\mid-main\mid-main\OOPHKII2425_MidtermExam_De2\hus\oop\book\out\production\book hus.oop.book.App
-WARNING: A restricted method in java.lang.System has been called
-WARNING: java.lang.System::load has been called by com.intellij.rt.execution.application.AppMainV2 in an unnamed module (file:/C:/Program%20Files/JetBrains/IntelliJ%20IDEA%202024.1.5/lib/idea_rt.jar)
-WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
-WARNING: Restricted methods will be blocked in a future release unless native access is enabled
 
-Dòng dữ liệu không hợp lệ (không đủ 6 phần tử): Integration of the Indian States,Menon, V P,history,217,94.7,Orient Blackswan
-Dòng dữ liệu không hợp lệ (không đủ 6 phần tử): Uncommon Wisdom,Capra, Fritjof,nonfiction,197,83.4,Fontana
---- Đang đọc dữ liệu từ file: data/books.csv ---
-Đọc dữ liệu hoàn tất. Số lượng sách đã đọc: 110
+
 ----------------------------------------
 
 --- Bắt đầu chạy các bài kiểm tra ---
